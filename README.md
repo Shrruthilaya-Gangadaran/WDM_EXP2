@@ -116,4 +116,4 @@ middle, high, B
 ### EMPLOYEE DATASET:
 ![](output2C2.png)
 ## RESULT: 
-Thus, association rule has been generated successfully for buying, bank and employee datasets using apriori algorithm
+Thus, association rule has been generated successfully for buying, bank and employee datasets using apriori algorithm.
