@@ -1,5 +1,6 @@
 # Exp no : 02 GENERATING ASSOCIATION RULES FOR THE DATASETS USING APRIORI ALGORITHM
 ## NAME : SHRRUTHILAYA G
+## REGISTER NUMBER : 212221230097
 ## DATE : 17.02.2024
 ## AIM: 
 To generate associate rules for the employee dataset using Apriori Algorithm.
